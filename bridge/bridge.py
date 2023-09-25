@@ -3,7 +3,7 @@ Bridge
 - A mechanism that decouples an interface (hierarchy) from an implementation
   (hierarchy)
 Motivation
-- Prevents a 'Cartesian product' complexity explosion
+- Prevents a 'Cartesian product' complexity explosion.
 """
 
 from abc import ABC
